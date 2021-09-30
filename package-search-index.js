@@ -1,1 +1,0 @@
-packageSearchIndex = [{"m":"tagtraum.japlsa","l":"com.tagtraum.macos.standardadditions"}]
