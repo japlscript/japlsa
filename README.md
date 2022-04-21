@@ -1,12 +1,12 @@
 [![LGPL 2.1](https://img.shields.io/badge/License-LGPL_2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.tagtraum/japlsa/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.tagtraum/japlsa)
-[![Build and Test](https://github.com/hendriks73/japlsa/workflows/Build%20and%20Test/badge.svg)](https://github.com/hendriks73/japlsa/actions)
+[![Build and Test](https://github.com/japlscript/japlsa/workflows/Build%20and%20Test/badge.svg)](https://github.com/japlscript/japlsa/actions)
 
 
 # JaplSA
 
 *JaplSA* is a Java API for the AppleScript Standard Additions based on
-[JaplScript](https://github.com/hendriks73/japlscript).
+[JaplScript](https://github.com/japlscript/japlscript).
 
 
 ## Installation
@@ -61,7 +61,7 @@ public class GetColor {
 ```
 ## API
 
-You can find the complete [API here](https://hendriks73.github.io/japlsa/com/tagtraum/macos/standardadditions/package-summary.html). 
+You can find the complete [API here](https://japlscript.github.io/japlsa/com/tagtraum/macos/standardadditions/package-summary.html). 
 
 
 ## AppleScript Sandbox

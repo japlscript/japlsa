@@ -1,3 +1,8 @@
+- 0.9.3
+
+  - Moved GitHub repository to https://github.com/japlscript/japlsa
+  - Moved to JaplScript 3.4.11
+
 - 0.9.2
 
   - Moved to JaplScript 3.4.8
